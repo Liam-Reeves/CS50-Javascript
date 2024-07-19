@@ -38,3 +38,27 @@ function count(){
     document.querySelector("#counter").style.color = "blue";
 
 };
+
+
+//Array of objects
+            // Objects have properties and methods
+            // they are wriiten using curly braces
+let data_product = [
+
+    {
+        id: 1,
+        name: 'Sweater',
+        price: 20.99,
+        description: "Long sleeve type",
+    },
+
+    
+    {
+        id: 1,
+        name: 'Shirt',
+        price: 20.99,
+        description: "Red type",
+    },
+
+
+]
